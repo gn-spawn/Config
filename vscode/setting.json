@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 14,
+    "eslint.enable": true,
+    "eslint.autoFixOnSave": true,
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true
+}
